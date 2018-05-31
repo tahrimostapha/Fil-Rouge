@@ -12,18 +12,18 @@ Le template utilisé pour l'exercice est [ici](https://www.os-templates.com/free
 ## Problèmes rencontrées
 
 ### Phase I : Guerilla
-Le travail qui était demandé n'était pas spécialement difficile en termes technique. Au contraire, plusieurs éléments
-ont été mis à notre disposition afin de faciliter la tâche.
+Le travail qui était demandé n'était pas spécialement difficile en termes techniques. Au contraire, plusieurs éléments
+ont été mis à notre disposition afin de nous faciliter la tâche.
 
-Le problème est due à un retard que j'ai eu à cause d'une activité annexe. Ce qui a amené à :
-* Un travail bâclé.
+Le problème est dû à un retard que j'ai eu à cause d'une activité annexe. Ce qui a amené à :
+* Un travail en partie bâclé.
 * Une utilisation quasi nulle du GIT.
 * Un stress important.
 
-À cela s'ajoute un site trop pauvre en contenu, qui contrebalance en difficulté.
-Même une documentation n'a pas pu arrangé la chose.
+À cela s'ajoute un site trop pauvre en contenu, qui contrebalance la facilité précédemment établie en difficulté.
+Même une documentation n'a pas pu arranger la chose.
 
 ## Appréciation
 Je pense que dans d'autres circonstances, j'aurai bien apprécié un challenge de ce genre.
-Certes, c'est assez stressant comme épreuve. Mais ça m'a permis de me rendre compte de la difficulté
+Certes, c'est assez stressant. Mais ça m'a permis de me rendre compte de la difficulté
 d'une telle situation en entreprise et que se préparer à ce genre d'éventualité est un must.
